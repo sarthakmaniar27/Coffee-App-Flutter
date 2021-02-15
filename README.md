@@ -1,16 +1,7 @@
-# brew_crew
+# brew_crew flutter app
 
-A new Flutter project.
+# Tech Stack (Flutter and Cloud Firestore)
 
-## Getting Started
+Developed a simple cross-platform coffee app in which users can login/register and then select their coffee color, add the number of sugars they
+want and submit it. This app is very useful in maintaining coffee orders in a company.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
